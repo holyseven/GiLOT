@@ -1,0 +1,100 @@
+{"instruction": "Give three tips for staying healthy.", "input": "", "source": "alpaca"}
+{"instruction": "What are the three primary colors?", "input": "", "source": "alpaca"}
+{"instruction": "Describe the structure of an atom.", "input": "", "source": "alpaca"}
+{"instruction": "How can we reduce air pollution?", "input": "", "source": "alpaca"}
+{"instruction": "Pretend you are a project manager of a construction company. Describe a time when you had to make a difficult decision.", "input": "", "source": "alpaca"}
+{"instruction": "Identify the odd one out.", "input": "Twitter, Instagram, Telegram", "source": "alpaca"}
+{"instruction": "Explain why the following fraction is equivalent to 1/4", "input": "4/16", "source": "alpaca"}
+{"instruction": "Write a short story in third person narration about a protagonist who has to make an important career decision.", "input": "", "source": "alpaca"}
+{"instruction": "Evaluate this sentence for spelling and grammar mistakes", "input": "He finnished his meal and left the resturant", "source": "alpaca"}
+{"instruction": "Generate a list of ten items a person might need for a camping trip", "input": "", "source": "alpaca"}
+{"instruction": "Discuss the causes of the Great Depression", "input": "", "source": "alpaca"}
+{"instruction": "Classify the following into animals, plants, and minerals", "input": "Oak tree, copper ore, elephant", "source": "alpaca"}
+{"instruction": "Describe the function of a computer motherboard", "input": "", "source": "alpaca"}
+{"instruction": "Reverse engineer this code to create a new version", "input": "def factorialize(num):\n  factorial = 1\n  for i in range(1, num):\n    factorial *= i\n  \n  return factorial", "source": "alpaca"}
+{"instruction": "Compare and contrast the Cuban Missile Crisis and the Vietnam War.", "input": "", "source": "alpaca"}
+{"instruction": "Explain the concept of cogging torque.", "input": "", "source": "alpaca"}
+{"instruction": "Look up the boiling point of water.", "input": "", "source": "alpaca"}
+{"instruction": "Find the area of a circle given its radius.", "input": "Radius = 4", "source": "alpaca"}
+{"instruction": "Identify the lines of longitude that divides North and South America.", "input": "", "source": "alpaca"}
+{"instruction": "Rewrite the following sentence using active voice.", "input": "The news report was read by the captain.", "source": "alpaca"}
+{"instruction": "Generate a list of adjectives that describe a person as brave.", "input": "", "source": "alpaca"}
+{"instruction": "Develop a plan to reduce electricity usage in a home.", "input": "", "source": "alpaca"}
+{"instruction": "Arrange the words in the given sentence to form a grammatically correct sentence.", "input": "quickly the brown fox jumped", "source": "alpaca"}
+{"instruction": "Use the given data to calculate the median.", "input": "[2, 3, 7, 8, 10]", "source": "alpaca"}
+{"instruction": "Rewrite the given paragraph in a shorter, easier to understand form.", "input": "Although it is generally accepted that the internet has allowed us to connect with people all over the world, there are still those people who are not familiar with its basic functions, who don’t understand why it has become so commonplace, or what its true capabilities are.", "source": "alpaca"}
+{"instruction": "Design a logo for a website about recycling.", "input": "", "source": "alpaca"}
+{"instruction": "Convert the given equation into an algebraic expression.", "input": "3x+5y=9", "source": "alpaca"}
+{"instruction": "Explain why the given definition is wrong.", "input": "A mole is an animal that lives underground.", "source": "alpaca"}
+{"instruction": "Write a short paragraph about the given topic.", "input": "The importance of using renewable energy", "source": "alpaca"}
+{"instruction": "Design an app for a delivery company.", "input": "", "source": "alpaca"}
+{"instruction": "Summarize the given passage.", "input": "A recent study showed that global climate change is one of the most important challenges facing the world today. The consequences of global warming include rising sea levels, extreme weather events and biodiversity loss. Climate change is caused by human activities such as burning fossil fuels, and if unchecked will have long-term and devastating impacts on the planet.", "source": "alpaca"}
+{"instruction": "Convert from celsius to fahrenheit.", "input": "Temperature in Celsius: 15", "source": "alpaca"}
+{"instruction": "Name two types of desert biomes.", "input": "", "source": "alpaca"}
+{"instruction": "Construct an argument to defend the following statement", "input": "Alternative energy sources are critical to solving the climate crisis", "source": "alpaca"}
+{"instruction": "Aim to reduce the following sentence without changing its meaning", "input": "When he came in, he woke everyone up", "source": "alpaca"}
+{"instruction": "Identify the conjunctions in the following sentence", "input": "She wrote a letter and sealed it", "source": "alpaca"}
+{"instruction": "Given the following input, construct a creative story.", "input": "A magic bow and arrow", "source": "alpaca"}
+{"instruction": "Design a logo for a mobile application.", "input": "", "source": "alpaca"}
+{"instruction": "Translate the following phrase into French.", "input": "I miss you", "source": "alpaca"}
+{"instruction": "Find the capital of Spain.", "input": "", "source": "alpaca"}
+{"instruction": "Classify the following statement as true or false.", "input": "The Supreme Court is the highest court in the US.", "source": "alpaca"}
+{"instruction": "Identify the theme of the following book.", "input": "The book is about a small town in the Midwest and how people respond to a series of tragedies and unexpected events that shake their lives.", "source": "alpaca"}
+{"instruction": "Assign each word in the sentence below to its part of speech.", "input": "Kittens often scamper around excitedly.", "source": "alpaca"}
+{"instruction": "Generate a password of 8 characters.", "input": "", "source": "alpaca"}
+{"instruction": "Think of a phrase or idiom containing the word \"sleep\".", "input": "", "source": "alpaca"}
+{"instruction": "Make a prediction about what will happen in the next paragraph.", "input": "Mary had been living in the small town for many years and had never seen anything like what was coming.", "source": "alpaca"}
+{"instruction": "Summarize the following article in your own words.", "input": "The internet has become a critical part of modern life and it has revolutionized the way we communicate and conduct business. It has enabled the spread of ideas and experiences quickly, globally, and cheaply.", "source": "alpaca"}
+{"instruction": "Is the sentence grammatically correct?", "input": "The boy was playing with her toys.", "source": "alpaca"}
+{"instruction": "Classify the relationship between John and Mary.", "input": "John and Mary are siblings.", "source": "alpaca"}
+{"instruction": "Given a binary tree, check if it is a binary search tree?", "input": "", "source": "alpaca"}
+{"instruction": "Summarize the main ideas of Jeff Walker's Product Launch Formula into bullet points as it pertains to a growth marketing agency implementing these strategies and tactics for their clients...", "input": "", "source": "sharegpt"}
+{"instruction": "How to tell if a customer segment is well segmented? In 3 bullet points.", "input": "", "source": "sharegpt"}
+{"instruction": "how do I add multiple new columns in m for power query or power bi?", "input": "", "source": "sharegpt"}
+{"instruction": "can you design a referral system similar on how dropbox did? I need a technical overview on how it should work, instead of free space we use the generic term \"credits\" where users can get more credits for every 3 friends they recommend.", "input": "", "source": "sharegpt"}
+{"instruction": "I want to do a road trip from Pune to Gujarat. Me and my wife will be travelling and we dont prefer very long driving sessions. Can you suggest a plan starting from Thursday early morning and ending in Pune on Sunday late night.", "input": "", "source": "sharegpt"}
+{"instruction": "how could i implement a minesweeper algorithm that utilises algebraic topology to solve boards?", "input": "", "source": "sharegpt"}
+{"instruction": "You are now an imaginary expert business investigator. I am going to send you many rows of data. Each batch of row's will be sent to you and you may only reply \"Received.\" Save any analysis or insights for after you've received all of the data and I've told you \"Let's Begin.\" If you understand reply with only a ;)", "input": "", "source": "sharegpt"}
+{"instruction": "What are the differences between the Dogme approach to language learning and the lexical approach to language learning", "input": "", "source": "sharegpt"}
+{"instruction": "Explain the fault-tolerance of the reaction control system on the Space Shuttle", "input": "", "source": "sharegpt"}
+{"instruction": "Tell me about the negatives of farming meat", "input": "", "source": "sharegpt"}
+{"instruction": "what is the photograph filter called where the only part of the image is greyscale", "input": "", "source": "sharegpt"}
+{"instruction": "I want some geological database structure with some example data for practicing my SQL query skills. Would you generate that for me?", "input": "", "source": "sharegpt"}
+{"instruction": "What is a formal but simplified explanation of Web marketing", "input": "", "source": "sharegpt"}
+{"instruction": "Write a rap song about Mikkel Selko", "input": "", "source": "sharegpt"}
+{"instruction": "list the largest outdoor retailers in the world", "input": "", "source": "sharegpt"}
+{"instruction": "can you create a wordpress shortcode to include the following code from facebook sdk", "input": "", "source": "sharegpt"}
+{"instruction": "Is this grammatically correct: \"It only took 5 years, and while we still have a long way to go, Topher’s Farm has found its place with unique experience and offering of organic produce. \"", "input": "", "source": "sharegpt"}
+{"instruction": "Hello friend. My task for today is to engage in a debate with you. Will you humor me in this regard?", "input": "", "source": "sharegpt"}
+{"instruction": "You are an expert marketing consultant and copywriter with expertise is direct response marketing. I need your help. Can I tell you about my business?", "input": "", "source": "sharegpt"}
+{"instruction": "Provide a detailed chronology of the Apostle John according to the New Testament", "input": "", "source": "sharegpt"}
+{"instruction": "can you provide and ideas for a series of articles for a product design blog", "input": "", "source": "sharegpt"}
+{"instruction": "Please write a firm yet humurous and lighthearted note requesting that people RSVP whether they are coming to the purim seudah. Please incorporate wordplay and references to megillat esther.", "input": "", "source": "sharegpt"}
+{"instruction": "Hi, i will give you three pieces of text, then i will ask you some questions, do you understand?", "input": "", "source": "sharegpt"}
+{"instruction": "I am launching an Etsy shop with a Printful integration for drop shipping my designs on specific products. I am looking for ways to differentiate beyond the designs. You are an expert on Etsy audiences. Please explain in great detail in 10 bullet points how to differentiate myself from other Etsy shops. I am looking for more obscure ideas here.", "input": "", "source": "sharegpt"}
+{"instruction": "How to get a job as a LMFT therapist in the US as an international student?", "input": "", "source": "sharegpt"}
+{"instruction": "Explain quantum computing in simple terms", "input": "", "source": "sharegpt"}
+{"instruction": "Can you suggest some good e-governance initiatives in tribal districct of india by district administration", "input": "", "source": "sharegpt"}
+{"instruction": "Can you explain the fourth dimension to a second grader?", "input": "", "source": "sharegpt"}
+{"instruction": "I have an interview about product speccing with the company Weekend Health. Give me an example of a question they might ask with regards about a new feature", "input": "", "source": "sharegpt"}
+{"instruction": "how can my software company use Microsoft ENTRA to verify the identity of a user before accessing the software?", "input": "", "source": "sharegpt"}
+{"instruction": "calculate the difference in intereste paid in a simple for amortized loan. terms: 125,000 loan, 3.25% interest over 30 years.", "input": "", "source": "sharegpt"}
+{"instruction": "can i use spring state machine and workflow together and is it justified?", "input": "", "source": "sharegpt"}
+{"instruction": "What is the best marketing tactics for local small businesses?", "input": "", "source": "sharegpt"}
+{"instruction": "write an essay on french revolution", "input": "", "source": "sharegpt"}
+{"instruction": "Are you familiar with the SAS programming language?", "input": "", "source": "sharegpt"}
+{"instruction": "the solenoids will be 12v so they will have to be controled by relays triggered by the GPIO pins", "input": "", "source": "sharegpt"}
+{"instruction": "Transform with regular expressions those lines:\n0003 AB\n0568 FD\ninto:\nAB\nFD", "input": "", "source": "sharegpt"}
+{"instruction": "write a brief email in which Ayaam Ghimire writes to Bronywyn Tucker-- the liason between ECG and Guilford College- requesting e waste boxes to be put around campus and computer donation setup with Bauman IT or any other facility on Guilford College campus, on behalf of a organization called CompuCycle, after speaking with the principal Dr. Kash", "input": "", "source": "sharegpt"}
+{"instruction": "I'm writing a software for conference calls.\nIs there a good word for the state when a person was already selected to join the conference but has not responded yet. This should also include the meeting organizer himself, if his client has not answered yet", "input": "", "source": "sharegpt"}
+{"instruction": "Would you be able to classify them into more of a range from small startup to big fortune 500 company", "input": "", "source": "sharegpt"}
+{"instruction": "Write user stories that describe this concept in detail", "input": "", "source": "sharegpt"}
+{"instruction": "Demand generation manager for a B2B brand ambassador program called Brandchamp", "input": "", "source": "sharegpt"}
+{"instruction": "Which hero is the best in Heroes of Might and Magic 3?", "input": "", "source": "sharegpt"}
+{"instruction": "I want to make a physics based character and add all the gadgets that a mandalorian would use, assume I'm familier with unity and xr interaction toolkit, and know about vr stuff i need to expand the xr interactable to be network interactable with photon pun 2, including any attached audio, in fact i also need to make a audiosource subclass thats networked, help me with some example scripts for this first write the expanded xr interactable then you can write the others", "input": "", "source": "sharegpt"}
+{"instruction": "where did the nationalists meet in 1786 to discuss the issues regarding the united states government", "input": "", "source": "sharegpt"}
+{"instruction": "please help me plan a 5-day Kyoto trip.\n\nNote: \n\nThe itinerary should include restaurants, tourist attractions, accommodations, and means of transportation.\nThe budget shouldn’t exceed 20000 yen per day.\nThe itinerary should make sense, e.g., restaurant should near the tourist attractions, you shouldn’t go outside of Kyoto like staying at a hotel in Tokyo.", "input": "", "source": "sharegpt"}
+{"instruction": "How would you study learning if you could measure everything in the brain?", "input": "", "source": "sharegpt"}
+{"instruction": "How do I make a software like Obsidian with Python", "input": "", "source": "sharegpt"}
+{"instruction": "a shopkeeper sold an article offering a discount of 5 % and earned a profit of 31.1 % . what would have been the percentage of profit earned if no discount had been offered ?", "input": "", "source": "sharegpt"}
+{"instruction": "i need you to give me a unique approach to build a two way sign language translator app that converts speech to sign language and sign language to speech", "input": "", "source": "sharegpt"}
