@@ -348,7 +348,7 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='Generate explanantion results')
     parser.add_argument('--method', type=str, choices=["optimal_transport", "kl_divergence", "l2_distance"])
-    parser.add_argument('--model_name', type=str, default='llama2-7b-chat')
+    parser.add_argument('--model_name', type=str, default='llama2-7b')
     parser.add_argument('--beams', type=int, default=200)
     parser.add_argument('--max_new_tokens', type=int, default=10)
     args = parser.parse_args()
@@ -379,7 +379,7 @@ if __name__ == "__main__":
         query = d['instruction'] + d['input']
         input_text = f"{template['prefix']}{query.strip()}{template['postfix']}"
 
-        if args.method in ["ot", "kl", "l2", "ours"]:
+        if args.method in ["optimal_transport", "kl_divergence", "l2_distance"]:
             # multiple J's result will be merged manually.
             inputs = tokenizer(input_text, return_tensors="pt")
             inputs.to(0)
