@@ -1,0 +1,252 @@
+[
+    {
+        "instruction": "Give three tips for staying healthy.",
+        "input": "",
+        "output": "1.Eat a balanced diet and make sure to include plenty of fruits and vegetables. \n2. Exercise regularly to keep your body active and strong. \n3. Get enough sleep and maintain a consistent sleep schedule."
+    },
+    {
+        "instruction": "What are the three primary colors?",
+        "input": "",
+        "output": "The three primary colors are red, blue, and yellow."
+    },
+    {
+        "instruction": "Describe the structure of an atom.",
+        "input": "",
+        "output": "An atom is made up of a nucleus, which contains protons and neutrons, surrounded by electrons that travel in orbits around the nucleus. The protons and neutrons have a positive charge, while the electrons have a negative charge, resulting in an overall neutral atom. The number of each particle determines the atomic number and the type of atom."
+    },
+    {
+        "instruction": "How can we reduce air pollution?",
+        "input": "",
+        "output": "There are a number of ways to reduce air pollution, such as shifting to renewable energy sources, encouraging the use of public transportation, prohibiting the burning of fossil fuels, implementing policies to reduce emissions from industrial sources, and implementing vehicle emissions standards. Additionally, individuals can do their part to reduce air pollution by reducing car use, avoiding burning materials such as wood, and changing to energy efficient appliances."
+    },
+    {
+        "instruction": "Pretend you are a project manager of a construction company. Describe a time when you had to make a difficult decision.",
+        "input": "",
+        "output": "I had to make a difficult decision when I was working as a project manager at a construction company. I was in charge of a project that needed to be completed by a certain date in order to meet the client\u2019s expectations. However, due to unexpected delays, we were not able to meet the deadline and so I had to make a difficult decision. I decided to extend the deadline, but I had to stretch the team\u2019s resources even further and increase the budget. Although it was a risky decision, I ultimately decided to go ahead with it to ensure that the project was completed on time and that the client\u2019s expectations were met. The project was eventually successfully completed and this was seen as a testament to my leadership and decision-making abilities."
+    },
+    {
+        "instruction": "Identify the odd one out.",
+        "input": "Twitter, Instagram, Telegram",
+        "output": "Telegram"
+    },
+    {
+        "instruction": "Explain why the following fraction is equivalent to 1/4",
+        "input": "4/16",
+        "output": "The fraction 4/16 is equivalent to 1/4 because both numerators and denominators are divisible by 4. Dividing both the top and bottom numbers by 4 yields the fraction 1/4."
+    },
+    {
+        "instruction": "Write a short story in third person narration about a protagonist who has to make an important career decision.",
+        "input": "",
+        "output": "John was at a crossroads in his life. He had just graduated college and was now facing the big decision of what career to pursue. After much deliberation, he decided that he wanted to be an accountant and help the financially disadvantaged. He had always been good with numbers and enjoyed seeing the tangible results of his work. \n\nJohn enrolled in accounting courses and initially found it quite challenging. He had to learn multiple systems and regulations quickly, but he worked hard and eventually excelled in his studies. After a few years, John started working at an accounting firm in his city. He was eager to put his knowledge of taxes and accounting to use in a real-world setting.\n\nJohn loved his job, as it let him express his creativity in finding strategies to save his clients money. After a few years at the firm, he became a senior accountant and was asked to manage bigger and more challenging cases. He was now a respected figure in the financial industry, but he still remembers when he was just a recent college graduate, unsure of the direction in which his life would take him."
+    },
+    {
+        "instruction": "Evaluate this sentence for spelling and grammar mistakes",
+        "input": "He finnished his meal and left the resturant",
+        "output": "He finished his meal and left the restaurant."
+    },
+    {
+        "instruction": "Generate a list of ten items a person might need for a camping trip",
+        "input": "",
+        "output": "1. Tent\n2. Sleeping bags\n3. Flashlight\n4. Matches/lighter\n5. Insect repellent\n6. Extra clothes\n7. First aid kit\n8. Camp stove\n9. Cooking utensils\n10. Biodegradable soaps/shampoos"
+    },
+    {
+        "instruction": "Discuss the causes of the Great Depression",
+        "input": "",
+        "output": "The Great Depression was a severe global economic downturn that lasted from 1929 to 1939. It was caused by several factors, including the stock market crash of 1929, structural weaknesses in the economy, low consumer spending, high unemployment, and a lack of confidence in the banking system. Other contributing factors included overproduction of commodities, reliance on borrowing to finance investments, agricultural overproduction, and a decrease in international trade."
+    },
+    {
+        "instruction": "Classify the following into animals, plants, and minerals",
+        "input": "Oak tree, copper ore, elephant",
+        "output": "Oak tree: Plant\n Copper ore: Mineral\n Elephant: Animal"
+    },
+    {
+        "instruction": "Describe the function of a computer motherboard",
+        "input": "",
+        "output": "A computer motherboard is the main circuit board in a computer. It is the backbone of the system, connecting all other components such as the processor, RAM, storage, graphics card and peripheral ports. It provides communication pathways between all of these components, allowing them to interact and work together. The motherboard is responsible for regulating power, and also houses slots for expansion cards, as well as ports for USB, audio, Ethernet, and other connection types."
+    },
+    {
+        "instruction": "Reverse engineer this code to create a new version",
+        "input": "def factorialize(num):\n  factorial = 1\n  for i in range(1, num):\n    factorial *= i\n  \n  return factorial",
+        "output": "def factorialize(num):\n  factorial = 1\n  for i in range(num, 0, -1):\n    factorial *= i\n  \n  return factorial"
+    },
+    {
+        "instruction": "Compare and contrast the Cuban Missile Crisis and the Vietnam War.",
+        "input": "",
+        "output": "The Cuban Missile Crisis and the Vietnam War were two of the largest and deadliest conflicts of the 20th century. The Cuban Missile Crisis involved a standoff between the United States and the Soviet Union over Soviet nuclear missile bases in Cuba, while the Vietnam War was a prolonged military conflict in Indochina between the North, which was backed by the Soviet Union and the South, which was backed by the United States. The Cuban Missile Crisis unfolded over a period of 13 days in October 1962, with the resolution coming in the form of a diplomatic agreement. The Vietnam War lasted for 19 years, beginning in 1954 and ending in 1973, with the signing of the Paris Peace Accords. While both of these conflicts were Cold War related, they were also very different in terms of causes, objectives, strategic objectives and outcomes. The Cuban Missile Crisis did not result in any direct military conflict and was resolved primarily through diplomacy and the decision to withdraw nuclear weapons from Cuba. On the other hand, the Vietnam War was a prolonged series of battles resulting in significant losses for both sides. The Vietnam War also had a significant impact on the United States, as it highlighted the realities of a prolonged conflict and the limits of U.S. military intervention. Additionally, the Vietnam War also drastically changed the way public opinion viewed the military and the use of force."
+    },
+    {
+        "instruction": "Explain the concept of cogging torque.",
+        "input": "",
+        "output": "Cogging torque is the torque that is applied to a rotating device when the device experiences resistance from the teeth of the gears that are connected to the device. Cogging torque occurs due to the reaction force generated when the teeth of the gear drive mesh. This force pushes against each other, resulting in a drag force that is transmitted from the gears to the shaft. The magnitude of the cogging torque can vary depending on the size and number of teeth, as well as the gear's material and design. Cogging torque is undesirable in most motorized applications, as it can lead to loss of efficiency. To reduce cogging torque, gear designs are often symmetrical or have certain tooth profiles which reduce the force of contact between the teeth when they come into contact with each other."
+    },
+    {
+        "instruction": "Look up the boiling point of water.",
+        "input": "",
+        "output": "The boiling point of water is 100\u00b0C (212\u00b0F), at standard atmospheric pressure. When heated at higher pressures, water's boiling point increases. For example, water will boil at a temperature of 115\u00b0C (239\u00b0F) at an atmospheric pressure of 1 bar. At higher pressures, such as those experienced at the bottom of the ocean, the boiling point of water can be as high as 374\u00b0C (705\u00b0F)."
+    },
+    {
+        "instruction": "Find the area of a circle given its radius.",
+        "input": "Radius = 4",
+        "output": "The area of a circle with a radius of 4 is equal to 12.5664 square units. This is calculated by using the formula A = \u03c0r2, where A is the area, \u03c0 is roughly equal to 3.1416 and r is the radius of the circle."
+    },
+    {
+        "instruction": "Identify the lines of longitude that divides North and South America.",
+        "input": "",
+        "output": "The lines of longitude that divides North and South America is the line of the Panama Canal. This line of longitude cuts through the Isthmus of Panama and separates South America from Central America. It is approximately 800 km (500 mi) in total length and was completed in 1914. The Panama Canal is an important shipping route and serves as an international waterway connecting the Caribbean Sea with the Pacific Ocean."
+    },
+    {
+        "instruction": "Rewrite the following sentence using active voice.",
+        "input": "The news report was read by the captain.",
+        "output": "The captain read the news report."
+    },
+    {
+        "instruction": "Generate a list of adjectives that describe a person as brave.",
+        "input": "",
+        "output": "Courageous, heroic, audacious, vigorous, valorous, resolute, intrepid, bold, brave, daring, tenacious, plucky, stout-hearted, doughty, gallant, fearless, undaunted, spirited, daredevil."
+    },
+    {
+        "instruction": "Develop a plan to reduce electricity usage in a home.",
+        "input": "",
+        "output": "A plan to reduce electricity usage in a home can include a number of different strategies. These include replacing inefficient lightbulbs with energy-efficient LEDs, unplugging appliances and electronics when not in use, using natural light instead of electric lights where possible, using a touch-free faucet to reduce water heater use, using a smart thermostat to monitor and adjust temperatures automatically, installing a solar hot water heater, and turning off electronics when not in use. Additionally, making sure to install and seal windows and doors correctly to reduce air leakage can also help reduce electricity usage."
+    },
+    {
+        "instruction": "Arrange the words in the given sentence to form a grammatically correct sentence.",
+        "input": "quickly the brown fox jumped",
+        "output": "The quick brown fox jumped quickly."
+    },
+    {
+        "instruction": "Use the given data to calculate the median.",
+        "input": "[2, 3, 7, 8, 10]",
+        "output": "The median of the given data is 7."
+    },
+    {
+        "instruction": "Rewrite the given paragraph in a shorter, easier to understand form.",
+        "input": "Although it is generally accepted that the internet has allowed us to connect with people all over the world, there are still those people who are not familiar with its basic functions, who don\u2019t understand why it has become so commonplace, or what its true capabilities are.",
+        "output": "The internet has allowed us to connect globally, even though some people are unfamiliar with its functions, don't comprehend its widespread use, and don't know its full potential."
+    },
+    {
+        "instruction": "Design a logo for a website about recycling.",
+        "input": "",
+        "output": "The logo should feature a green motif that is recognizable and memorable, such as a recycle symbol or a stylized representation of a recycling bin. The logo should also include text that communicates the website's purpose, such as \"Recycling\" or \"Go Green\"."
+    },
+    {
+        "instruction": "Convert the given equation into an algebraic expression.",
+        "input": "3x+5y=9",
+        "output": "3x + 5y - 9 = 0"
+    },
+    {
+        "instruction": "Explain why the given definition is wrong.",
+        "input": "A mole is an animal that lives underground.",
+        "output": "The definition is wrong because a mole is actually a small mammal that lives above ground and feeds on insects. It is most distinguishable by its long snout and wide, paddle-like feet. It does, however, often dig burrows in which it lives and shelters."
+    },
+    {
+        "instruction": "Write a short paragraph about the given topic.",
+        "input": "The importance of using renewable energy",
+        "output": "The use of renewable energy is growing rapidly in relevance and importance as the world looks towards solutions to combat climate change. Renewable energy sources, such as solar, wind, and hydropower, are sustainable and have a much lower environmental impact than traditional energy sources like coal and oil. Switching to renewable energy can reduce carbon emissions, improve air quality, lessen the dependence on non-renewable resources, and provide a stable and secure energy future. Renewable energy is essential for achieving a sustainable future and should be an important part of any country\u2019s energy portfolio."
+    },
+    {
+        "instruction": "Design an app for a delivery company.",
+        "input": "",
+        "output": "The app should allow customers to order items from local businesses and nearby store, place delivery requests with detailed delivery requirements, and track their orders. It should also allow customers to easily find and pay for services. The app should allow businesses to manage orders, track deliveries and drivers, set delivery boundaries, and set prices. It should also have features to help businesses promote their products and services, as well as options to provide customer feedback and support."
+    },
+    {
+        "instruction": "Summarize the given passage.",
+        "input": "A recent study showed that global climate change is one of the most important challenges facing the world today. The consequences of global warming include rising sea levels, extreme weather events and biodiversity loss. Climate change is caused by human activities such as burning fossil fuels, and if unchecked will have long-term and devastating impacts on the planet.",
+        "output": "A recent study revealed that global climate change is one of the world\u2019s most pressing issues. In addition to rising sea levels, extreme weather events and biodiversity loss, it is caused largely by human activities like burning fossil fuels. If left unchecked, climate change will have far-reaching and devastating consequences."
+    },
+    {
+        "instruction": "Convert from celsius to fahrenheit.",
+        "input": "Temperature in Celsius: 15",
+        "output": "Temperature in Fahrenheit: 59"
+    },
+    {
+        "instruction": "Name two types of desert biomes.",
+        "input": "",
+        "output": "Two types of desert biomes are xeric and subpolar deserts."
+    },
+    {
+        "instruction": "Construct an argument to defend the following statement",
+        "input": "Alternative energy sources are critical to solving the climate crisis",
+        "output": "Alternative energy sources are absolutely vital in order to mitigate the most detrimental impacts of climate change. As the world transitions away from fossil fuels and towards more sustainable sources of energy, such as wind, solar, and hydropower, we can reduce the number of greenhouse gases in the atmosphere and prevent further warming of our planet. Additionally, using renewable and alternative energies sources will create thousands of jobs and can help to create a healthy, stable economy. Investing in alternative energy sources is a sound decision and a necessary step if we want to effectively address the climate crisis."
+    },
+    {
+        "instruction": "Aim to reduce the following sentence without changing its meaning",
+        "input": "When he came in, he woke everyone up",
+        "output": "He woke everyone on entering."
+    },
+    {
+        "instruction": "Identify the conjunctions in the following sentence",
+        "input": "She wrote a letter and sealed it",
+        "output": "The conjunctions in the sentence are \"and\"."
+    },
+    {
+        "instruction": "Given the following input, construct a creative story.",
+        "input": "A magic bow and arrow",
+        "output": "Once upon a time, there lived a young girl named Alexa who was gifted with an incredible magical bow and arrow. Whenever she pulled back her bow and let an arrow fly, wherever it landed, something extraordinary happened. Flowers bloomed, oceans calmed, and the sun shone brighter. Alexa's bow and arrow were so powerful, that it could make even the most impossible things possible. One day, during a great storm, Alexa used her magical bow and arrow to bring calm and harmony to her hometown. She was praised and celebrated by the whole town, and she soon became a symbol of hope and peace."
+    },
+    {
+        "instruction": "Design a logo for a mobile application.",
+        "input": "",
+        "output": "The logo design should be simple, modern, and unique. It should capture the essence of the application and communicate its functions. The logo should feature bold colors that are eye-catching, and the design should be adaptable to various sizes and platforms, such as websites and mobile devices."
+    },
+    {
+        "instruction": "Translate the following phrase into French.",
+        "input": "I miss you",
+        "output": "Je te manque."
+    },
+    {
+        "instruction": "Find the capital of Spain.",
+        "input": "",
+        "output": "The capital of Spain is Madrid."
+    },
+    {
+        "instruction": "Classify the following statement as true or false.",
+        "input": "The Supreme Court is the highest court in the US.",
+        "output": "True."
+    },
+    {
+        "instruction": "Identify the theme of the following book.",
+        "input": "The book is about a small town in the Midwest and how people respond to a series of tragedies and unexpected events that shake their lives.",
+        "output": "The theme of the book is resilience in the face of unexpected tragedy, and how the people of a small town come together to overcome difficult times."
+    },
+    {
+        "instruction": "Assign each word in the sentence below to its part of speech.",
+        "input": "Kittens often scamper around excitedly.",
+        "output": "Kittens - Noun \noften - Adverb \nscamper - Verb \naround - Preposition \nexcitedly - Adverb"
+    },
+    {
+        "instruction": "Generate a password of 8 characters.",
+        "input": "",
+        "output": "e9gKyd2D"
+    },
+    {
+        "instruction": "Think of a phrase or idiom containing the word \"sleep\".",
+        "input": "",
+        "output": "Sleep like a log."
+    },
+    {
+        "instruction": "Make a prediction about what will happen in the next paragraph.",
+        "input": "Mary had been living in the small town for many years and had never seen anything like what was coming.",
+        "output": "It appears that something extraordinary and unprecedented will happen in the next paragraph."
+    },
+    {
+        "instruction": "Summarize the following article in your own words.",
+        "input": "The internet has become a critical part of modern life and it has revolutionized the way we communicate and conduct business. It has enabled the spread of ideas and experiences quickly, globally, and cheaply.",
+        "output": "The internet has drastically changed our lives by allowing us to easily and quickly communicate and conduct business across the globe. It has enabled the rapid spread of ideas and experiences worldwide."
+    },
+    {
+        "instruction": "Is the sentence grammatically correct?",
+        "input": "The boy was playing with her toys.",
+        "output": "Yes, the sentence is grammatically correct."
+    },
+    {
+        "instruction": "Classify the relationship between John and Mary.",
+        "input": "John and Mary are siblings.",
+        "output": "John and Mary are brother and sister."
+    },
+    {
+        "instruction": "Given a binary tree, check if it is a binary search tree?",
+        "input": "",
+        "output": "def isBST(root):\nif root is None : \n\treturn True\n\nif root.left is not None and root.left.val > root.val: \n\treturn False\n\nif root.right is not None and root.right.val < root.val: \n\treturn False\n\nreturn isBST(root.left) and isBST(root.right)"
+    }
+]
