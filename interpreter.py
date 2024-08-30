@@ -134,7 +134,7 @@ class Interpreter:
 
     def optimal_transport(self, pj_a, p_j):
         embed_weight = eval(self.embedding_name)
-        normalized_embed_weight = torch.norm(embed_weight, dim=1)[:, None]
+        normalized_embed_weight = embed_weight / torch.norm(embed_weight, dim=1)[:, None]
         s1, s2, union_indices = self._topp_intersection(p_j, pj_a)
         C = self._create_cost_matrix_cos(normalized_embed_weight, union_indices).cuda()
         ot_plan, ot_loss = self._ipot_torch(s1, s2, C)
@@ -306,6 +306,7 @@ class Interpreter:
         if distance not in ["optimal_transport", "kl_divergence", "l2_distance"]:
             raise ValueError('Distance type not supported!')
 
+        p_len = input_ids.shape[-1]
         config = transformers.GenerationConfig(
             num_beams=num_beams,
             num_return_sequences=num_beams,

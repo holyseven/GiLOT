@@ -118,6 +118,24 @@ def load_model(model_name):
         vocab_size = model.model.vocab_size
         embed_dim = 4096
 
+    elif model_name == 'llama2-7b-chat':
+        model_path = "/root/codespace/hf_resources/Llama2-7b-chat"
+        device_map = "auto"  # model parallel
+        model = LlamaForCausalLM.from_pretrained(
+            model_path,
+            load_in_8bit=False,
+            torch_dtype=torch.float32,
+            device_map=device_map,
+            low_cpu_mem_usage=True,
+        )
+        print(model.hf_device_map)
+        tokenizer = LlamaTokenizer.from_pretrained(model_path)
+        block_name = "self.model.model.layers"
+        embedding_name = "self.model.model.embedding"
+        embedding_token_name = "self.model.model.embed_tokens.weight"
+        vocab_size = model.model.vocab_size
+        embed_dim = 4096
+
     elif model_name == 'alpaca-lora-7b':
         model_path = '/root/codespace/cjm_code/pretrained_model/llama-7b'
         device_map = "auto"  # model parallel
@@ -213,7 +231,7 @@ def load_model(model_name):
 
         lora_weights = "/root/codespace/cjm_code/pretrained_model/alpaca-lora-13b"
         model = PeftModelForCausalLM.from_pretrained(
-            model,
+            model_path,
             lora_weights,
             torch_dtype=torch.float32,
         )
